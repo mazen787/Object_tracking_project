@@ -27,12 +27,12 @@ See [`requirments.txt`](requirments.txt) for dependencies:
 
 ## Usage
 
-Run the Streamlit app:
+1. Run the Streamlit app:
 
 ```sh
 streamlit run app.py
 ```
-
+2. This App deployed on streamlit cloud. You can access it [here](https://objecttrackingprojectmazen.streamlit.app/).
 Then, open the provided local URL in your browser and upload a video to start tracking objects.
 
 ## File Structure
